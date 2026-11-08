@@ -12,4 +12,4 @@ High-performance digital studio based in Metro Vancouver engineering custom Next
 - [Vantage Point Platform](https://vantagepoint.dev)
 
 ---
-📍 Operating out of Metro Vancouver, BC, Canada.
+📍 Based in British Columbia. Working across Canada and the US.
